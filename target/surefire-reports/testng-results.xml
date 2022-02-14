@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-13T20:35:44 IST" name="Surefire suite" finished-at="2022-02-13T20:35:44 IST" duration-ms="96">
+    <groups>
+    </groups>
+    <test started-at="2022-02-13T20:35:44 IST" name="Surefire test" finished-at="2022-02-13T20:35:44 IST" duration-ms="96">
+      <class name="RestAssuredSpotify.Spotify.AppTest">
+        <test-method signature="shouldAnswerWithTrue()" started-at="2022-02-13T20:35:44 IST" name="shouldAnswerWithTrue" finished-at="2022-02-13T20:35:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- RestAssuredSpotify.Spotify.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
